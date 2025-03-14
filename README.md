@@ -1,4 +1,4 @@
-# README: zpaqfranz
+# README: zpaqfranz guia en español
 
 **zpaqfranz** es una herramienta avanzada de compresión, descompresión, backup y gestión de archivos basada en el formato ZPAQ. Es una versión mejorada y extendida de `zpaq`, con soporte para múltiples funcionalidades adicionales, como la deduplicación, verificación de integridad, gestión de multipartes, y más. Este documento proporciona una guía detallada sobre cómo utilizar **zpaqfranz** y sus diversas características.
 
